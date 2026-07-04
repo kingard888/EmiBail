@@ -1,21 +1,21 @@
 {
-    "name": "lilys-baileys",
+    "name": "emibail",
     "version": "1.2.9",
-    "description": "Whatsapp baileys coded by Fallzx-Coderid.",
+    "description": "Whatsapp baileys coded by Veryard.",
     "keywords": [
         "whatsapp",
-        "lily-baileys",
+        "emibail",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
-        "fallzx",
+        "veryard",
         "wabot",
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/FallEzz/baileys-corp.git",
+    "homepage": "https://github.com/kingard888/EmiBail.git",
     "repository": {
-        "url": "https://github.com/FallEzz/baileys-corp.git"
+        "url": "https://github.com/kingard888/EmiBail.git"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -53,7 +53,7 @@
         "futoin-hkdf": "^1.5.1",
         "gradient-string": "^3.0.0",
         "libphonenumber-js": "^1.10.20",
-        "libsignal": "npm:@shennmine/libsignal-node",
+        "libsignal": "^6.0.0",
         "lodash": "^4.17.21",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",

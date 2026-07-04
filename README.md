@@ -2,11 +2,9 @@
 
 # 🚀 EmiliaCompany-Baileys
 
-<div align="center">
-
-
-
-</div>
+<p align="center">
+  <img src="https://castorice-corporation.vercel.app/files/nnxgh5zv.jpg" alt="Thumbnail" />
+</p>
 
 ### 📦 Installation
 

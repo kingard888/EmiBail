@@ -2,12 +2,6 @@
 
 # 🚀 EmiliaCompany-Baileys
 
-<div align="center">
-
-
-
-</div>
-
 ### 📦 Installation
 
 ```bash
